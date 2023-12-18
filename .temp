@@ -1,0 +1,26 @@
+{
+    "username": "Ana",
+    "password": "getpass_1"
+}
+{
+    "refresh": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTcwMzAxMzk4NSwianRpIjoiNzY2YTAxZjA0Y2ZiNGI0ZGFkNGVlZmJkNTQ5MWQ0ZjgiLCJ1c2VyX2lkIjoxfQ.d6kPpXVbQcKzno3BNRw-i_WMzahlSNH5OYbj6UeHOlc",
+    "access": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzAzMDEzOTg1LCJqdGkiOiI2YzBhOWE1NDYyZTM0ZGQ2YTE1Y2MxMzlkNzJhNzA2MiIsInVzZXJfaWQiOjF9.SZpkq08w5kkbHtBxkOvybIoawqWgJ4nafx49JefbfM8"
+}
+
+{
+    "username": "Hrunya",
+    "password": "getpass_2"
+}
+{
+    "refresh": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTcwMzAxNDA0NCwianRpIjoiYjM4N2QyMGJhMTlmNDBhZTkzZmZiNDkyZDM4MjY5ZmUiLCJ1c2VyX2lkIjoyfQ.ggkojCFN5FsvfrVckNn5lG7eG1wFHpIVSkytDUBezX0",
+    "access": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzAzMDE0MDQ0LCJqdGkiOiI1ZmIxZTc5MzY5MjE0ZWRkODExODZhNGQ0NzEyN2QxMSIsInVzZXJfaWQiOjJ9.j8Er0ZZ-y0GQwz0sLCYbCIq7wQxpseiUZU_wR0occyM"
+}
+
+{
+    "username": "Hrusha",
+    "password": "getpass_3"
+}
+{
+    "refresh": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTcwMzAxNDA5NiwianRpIjoiNDFkMGQ2NzQ3OWJhNDkzNTgwODgxYWE2NjE5ZDAyOGMiLCJ1c2VyX2lkIjozfQ.udXX5qapH88imN0HarYUeQKUgBptw1llwKYuy8FQvpU",
+    "access": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzAzMDE0MDk2LCJqdGkiOiJiNjYxMDFmMmYzM2E0ZDAxYjRhMjE4NTZjZWRjNTliYSIsInVzZXJfaWQiOjN9.e3R2EW4xOYiUyfhprDroyNpydubLq0JuPZoNiV5IApU"
+}
